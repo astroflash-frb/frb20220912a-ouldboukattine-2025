@@ -1,0 +1,8 @@
+,threshold_jy_ms,threshold_erg_hz,treshold_factor,N_bursts,N_wb,N_stk,N_tr,N_nc,N_ata,N_fs,energy_arr_erg_hz_name,base_name,emcee_name,chi2,redchi2
+0,16.103864753530438,2.1812497534701952e+30,0.66,146,25,68,4,13,32,4,output_treshold_0.66_energies.txt,output_treshold_0.66,emcee_output_treshold_0.66_10000steps.h5,13.514290595546209,1.1261908829621838
+1,23.814199999160163,3.225605696040774e+30,0.976,130,23,64,2,9,30,2,output_treshold_0.976_energies.txt,output_treshold_0.976,emcee_output_treshold_0.976_10000steps.h5,10.252687354892776,0.8543906129077313
+2,24.399795081106724,3.304923868894235e+30,1.0,125,22,62,2,8,29,2,output_treshold_1.0_energies.txt,output_treshold_1.0,emcee_output_treshold_1.0_10000steps.h5,9.340696806078563,0.778391400506547
+3,32.45172745787195,4.395548745629333e+30,1.33,112,20,55,2,7,27,1,output_treshold_1.33_energies.txt,output_treshold_1.33,emcee_output_treshold_1.33_10000steps.h5,7.966997939114353,0.6639164949261961
+4,48.79959016221345,6.60984773778847e+30,2.0,93,12,47,1,7,26,0,output_treshold_2.0_energies.txt,output_treshold_2.0,emcee_output_treshold_2.0_10000steps.h5,5.988597592776252,0.4990497993980209
+5,60.999487702766814,8.262309672235588e+30,2.5,85,11,45,1,6,22,0,output_treshold_2.5_energies.txt,output_treshold_2.5,emcee_output_treshold_2.5_10000steps.h5,7.640775226994571,0.7640775226994572
+6,73.19938524332017,9.914771606682704e+30,3.0,82,10,44,1,6,21,0,output_treshold_3.0_energies.txt,output_treshold_3.0,emcee_output_treshold_3.0_10000steps.h5,12.499546121752074,1.2499546121752074

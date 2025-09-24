@@ -1,4 +1,7 @@
-This repository contains the scripts and databases used to generate the plots and results presented in Ould-Boukattine 2025.
+# Intro
+
+This repository contains the scripts and databases used to generate the plots and results presented in [Ould-Boukattine+2025](https://arxiv.org/abs/2410.17024).
+The data is hosted at Zenodo can be retrieved [here](https://doi.org/10.5281/zenodo.11261763).
 
 Files:
 
@@ -31,3 +34,5 @@ Folders:
 
     ./spc:
     Bash script used to execute the SPC algorithm on .archive files, as described in the Methods section.
+
+If you used this code or any of the tools, please cite [Ould-Boukattine+2025](https://arxiv.org/abs/2410.17024)  in your work.

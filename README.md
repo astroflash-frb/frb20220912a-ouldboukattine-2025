@@ -5,12 +5,7 @@ The data is hosted at Zenodo can be retrieved [here](https://doi.org/10.5281/zen
 
 Software used:
 
-    The pipeline written to process and search the baseband data can be found at [frb-baseband](https://github.com/pharaofranz/frb-baseband). 
-    software used to transfer radio data can be found at [jive5ab](https://github.com/jive-vlbi/jive5ab), 
-    The burst searcher software can be found at [Heimdall](https://sourceforge.net/projects/heimdall-astro/) 
-    The burst classifier software FETCH is be found [here](https://github.com/devanshkv/fetch) 
-    The pulsar package DSPSR is hosted at [here](https://sourceforge.net/projects/dspsr/) and {\tt SIGPROC} can be retrieved from [here](https://github.com/SixByNine/sigproc).
-    The source code for the MCMC analysis is based on this [example](https://philuttley.github.io/stats-methods-24/12-mcmc/index.html)
+The pipeline written to process and search the baseband data can be found at [frb-baseband](https://github.com/pharaofranz/frb-baseband). software used to transfer radio data can be found at [jive5ab](https://github.com/jive-vlbi/jive5ab), The burst searcher software can be found at [Heimdall](https://sourceforge.net/projects/heimdall-astro/). The burst classifier software FETCH is be found [here](https://github.com/devanshkv/fetch). The pulsar package DSPSR is hosted at [here](https://sourceforge.net/projects/dspsr/) and SIGPROC can be retrieved from [here](https://github.com/SixByNine/sigproc). The source code for the MCMC analysis is based on this [example](https://philuttley.github.io/stats-methods-24/12-mcmc/index.html)
     
 Files:
 
